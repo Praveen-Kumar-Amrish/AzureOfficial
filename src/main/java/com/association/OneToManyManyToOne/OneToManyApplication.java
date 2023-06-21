@@ -16,7 +16,7 @@ public class OneToManyApplication {
 	
 	@GetMapping("/butterfly")
 	public String message(){
-		return "butterflies in stomach";
+		return "Butterflies in Stomach";
 	}
 
 }
